@@ -5,6 +5,8 @@ JavaScript that scales. [TypeScript](https://www.typescriptlang.org/index.html) 
 
 Slide Presentation [here](https://docs.google.com/presentation/d/1n3DgqMm-J5K9SEviSqxwoJgPCDU98K-vxYbB_9taFR0/edit?usp=sharing)
 
+Recorded Video coming soon.
+
 ## What is TypeScript?
 
 ## Setting up environment
