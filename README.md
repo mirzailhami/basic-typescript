@@ -1,7 +1,7 @@
 # Webinar - Learn Basic TypeScript 
 ## Dilo Medan - June 20, 2020
 
-JavaScript that scales. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open source.
+JavaScript that scales. [TypeScript](https://www.typescriptlang.org/index.html) is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open source.
 
 Slide Presentation [here](https://docs.google.com/presentation/d/1n3DgqMm-J5K9SEviSqxwoJgPCDU98K-vxYbB_9taFR0/edit?usp=sharing)
 
